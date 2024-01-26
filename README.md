@@ -25,6 +25,7 @@ Welcome to the SuperLee App! This comprehensive application is designed to strea
   Perform necessary updates and reviews at the end of the month or weekend, ensuring data accuracy.
 
 **For Employees:**
+
   Constraint Submission:
   Employees can submit constraints, providing a flexible system that accommodates individual needs.
   
@@ -38,6 +39,7 @@ Welcome to the SuperLee App! This comprehensive application is designed to strea
   StockKeepers and Shift Managers have access to extra features, detailed in the documentation for a more specialized user experience.
 
 **For Transport Managers:**
+
   Transport Form Creation:
   Create comprehensive transport forms, ensuring all necessary details are captured.
   
