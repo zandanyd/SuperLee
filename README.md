@@ -53,8 +53,7 @@ Welcome to the SuperLee App! This comprehensive application is designed to strea
   Efficiently manage the fleet of trucks, ensuring they are utilized optimally.
 
 # Technical Details
-  This application is developed using Java, providing a robust and reliable platform for seamless performance. The user interface is designed to cater to a diverse set of   
-  users, with both graphical user interface (GUI) and command-line interface (CMD) options, making it accessible to all team members.
+  This application is developed using Java with an integrated SQLite database, showcases meticulous database analysis and design. This project seamlessly integrates database principles, ensuring optimal performance and data management for efficient supermarket operations, providing a robust and reliable platform for seamless performance. The user interface is designed to cater to a diverse set of users, with both graphical user interface (GUI) and command-line interface (CMD) options, making it accessible to all team members.
 
 # Getting Started
   To get started with the SuperMarket Management App, refer to the detailed documentation that outlines the functionalities, user guides, and additional features available. 
