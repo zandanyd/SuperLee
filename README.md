@@ -1,8 +1,11 @@
 # SuperLee
 Welcome to the SuperLee App! This comprehensive application is designed to streamline and enhance the efficiency of The Super Market Company's human resources and transportation departments. Whether you're an HR manager, Transport manager, driver, or an employee in various roles such as Cashier, StockKeeper, GeneralWorker, Cleaner, or Usher, this app has you covered.
 ## This document contains a brief description of the application, a more detailed description can be found in the docs folder.
-##Features and Capabilities
-For HR Managers:
+
+#Features and Capabilities:
+
+#For HR Managers:
+
 Employee Registration:
 Easily register new employees into the system, ensuring a seamless onboarding process.
 
