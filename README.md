@@ -8,14 +8,19 @@ Welcome to the SuperLee App! This comprehensive application is designed to strea
 
 Employee Registration:
 Easily register new employees into the system, ensuring a seamless onboarding process.
+
 Shift Presentation:
 Efficiently manage and present shift schedules for all employees.
+
 Employee Details:
 Edit and display detailed information about each employee, providing a centralized hub for HR tasks.
+
 Transport Presentation:
 Access and view information related to transportation, facilitating better logistics planning.
+
 Shift Creation:
 Create and manage shifts for optimal resource allocation.
+
 End-of-Month/Weekend Update:
 Perform necessary updates and reviews at the end of the month or weekend, ensuring data accuracy.
 
