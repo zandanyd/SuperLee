@@ -1,65 +1,37 @@
 # SuperLee
-Welcome to the SuperLee App! This comprehensive application is designed to streamline and enhance the efficiency of The Super Market Company's human resources and transportation departments. Whether you're an HR manager, Transport manager, driver, or an employee in various roles such as Cashier, StockKeeper, GeneralWorker, Cleaner, or Usher, this app has you covered.
-## This document contains a brief description of the application, a more detailed description can be found in the docs folder.
+![Shopping Cart Logo](images/shopping_cart.png)
+Welcome to the SuperLee App, a robust solution designed to enhance operational efficiency across The Super Market Company's human resources and transportation departments. This application supports a range of roles including HR managers, transport managers, drivers, and employees in various capacities such as cashiers, stockkeepers, and cleaners.
 
-# Features and Capabilities:
+## Overview
+This document provides an introduction to the application. For a detailed description, refer to the documentation in the 'docs' folder.
 
-**For HR Managers:**
+# Features and Capabilities
 
-  Employee Registration:
-  Easily register new employees into the system, ensuring a seamless onboarding process.
+### For HR Managers
+- **Employee Registration:** Streamline the onboarding process by registering new employees with ease.
+- **Shift Presentation:** Manage and display shift schedules efficiently.
+- **Employee Details:** Centralize and edit detailed employee information.
+- **Transport Presentation:** View transportation-related information for better logistics planning.
+- **Shift Creation:** Allocate resources effectively by creating and managing shifts.
+- **End-of-Month/Weekend Updates:** Maintain data accuracy with periodic updates.
 
-  Shift Presentation:
-  Efficiently manage and present shift schedules for all employees.
-  
-  Employee Details:
-  Edit and display detailed information about each employee, providing a centralized hub for HR tasks.
-  
-  Transport Presentation:
-  Access and view information related to transportation, facilitating better logistics planning.
-  
-  Shift Creation:
-  Create and manage shifts for optimal resource allocation.
-  
-  End-of-Month/Weekend Update:
-  Perform necessary updates and reviews at the end of the month or weekend, ensuring data accuracy.
+### For Employees
+- **Constraint Submission:** Submit personal constraints for a flexible working environment.
+- **Shift Schedule Viewing:** View upcoming shift schedules for better personal planning.
+- **Personal Details Update:** Update personal details as needed.
+- **Additional Options:** Special features for StockKeepers and Shift Managers enhance their user experience.
 
-**For Employees:**
-
-  Constraint Submission:
-  Employees can submit constraints, providing a flexible system that accommodates individual needs.
-  
-  Shift Schedule Viewing:
-  Easily access the upcoming week's shift schedule, allowing for better personal planning.
-  
-  Personal Details Update:
-  Employees can change and update their personal details as needed.
-  
-  Additional Options for StockKeepers and Shift Managers:
-  StockKeepers and Shift Managers have access to extra features, detailed in the documentation for a more specialized user experience.
-
-**For Transport Managers:**
-
-  Transport Form Creation:
-  Create comprehensive transport forms, ensuring all necessary details are captured.
-  
-  Order Addition:
-  Add and manage orders efficiently, optimizing the transportation process.
-  
-  Transport Management:
-  Oversee and manage transportation logistics for smooth operations.
-  
-  Truck Management:
-  Efficiently manage the fleet of trucks, ensuring they are utilized optimally.
+### For Transport Managers
+- **Transport Form Creation:** Capture essential details with comprehensive transport forms.
+- **Order Addition:** Manage orders efficiently to optimize the transportation process.
+- **Transport Management:** Ensure smooth transportation operations.
+- **Truck Management:** Optimize fleet utilization.
 
 # Technical Details
-  This application is developed using Java with an integrated SQLite database, showcases meticulous database analysis and design. This project seamlessly integrates database principles, ensuring optimal performance and data management for efficient supermarket operations, providing a robust and reliable platform for seamless performance. The user interface is designed to cater to a diverse set of users, with both graphical user interface (GUI) and command-line interface (CMD) options, making it accessible to all team members.
+Developed in Java and integrated with an SQLite database, this application exemplifies rigorous database analysis and design principles for optimal performance. The user interface accommodates a diverse user base with both graphical (GUI) and command-line (CMD) interfaces.
 
 # Getting Started
-  To get started with the SuperMarket Management App, refer to the detailed documentation that outlines the functionalities, user guides, and additional features available. 
-  Feel free to explore the intuitive interface and discover how this app can transform and simplify your daily operations.
+Begin by exploring the detailed documentation available in the 'docs' folder, which covers functionalities, user guides, and features in depth. Discover the intuitive interface of the SuperMarket Management App and see how it can streamline your daily operations.
 
-## Thank you for choosing the SuperLee App. We are dedicated to providing a superior user experience and welcome any feedback or suggestions to enhance our application further. Happy managing!
-
-
-
+## Thank You
+Thank you for choosing the SuperLee App. We are committed to enhancing your experience and welcome any feedback to improve our application. Happy managing!
