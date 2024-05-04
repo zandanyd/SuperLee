@@ -1,5 +1,4 @@
 # SuperLee
-[image](https://github.com/zandanyd/SuperLee/assets/127864652/f094ab03-b4ce-44f1-a42f-8db2d25a2554)
 
 Welcome to the SuperLee App, a robust solution designed to enhance operational efficiency across The Super Market Company's human resources and transportation departments. This application supports a range of roles including HR managers, transport managers, drivers, and employees in various capacities such as cashiers, stockkeepers, and cleaners.
 
